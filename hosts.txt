@@ -128,8 +128,10 @@
 104.16.37.75 jmcomic.me
 104.16.37.75 jmcomic1.me
 104.16.37.75 jmcomic.asia
-
-
+104.16.37.75 www.jmapibranch1.cc
+104.16.37.75 www.jmapibranch2.cc
+104.16.37.75 www.jmapibranch3.cc
+104.16.37.75 www.asjmapihost.cc
 
 # Added by Docker Desktop
 10.34.5.197 host.docker.internal
