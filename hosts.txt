@@ -132,7 +132,8 @@
 104.16.37.75 www.jmapibranch2.cc
 104.16.37.75 www.jmapibranch3.cc
 104.16.37.75 www.asjmapihost.cc
-
+104.16.37.75 cdn-msp.jmapiproxy1.cc
+104.16.37.75 cdn-msp.jmapiproxy2.cc
 # Added by Docker Desktop
 10.34.5.197 host.docker.internal
 10.34.5.197 gateway.docker.internal
