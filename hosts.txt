@@ -97,49 +97,49 @@
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
-104.16.37.75 cdn-msp.jmcomic1.onl
-104.16.37.75 cdn-msp.jmcomic2.onl
-104.16.37.75 cdn-msp1.jmcomic1.onl
-104.16.37.75 cdn-msp1.jmcomic2.onl
-104.16.37.75 cdn-msp2.jmcomic1.onl
-104.16.37.75 cdn-msp2.jmcomic2.onl
+104.18.121.239 cdn-msp.jmcomic1.onl
+104.18.121.239 cdn-msp.jmcomic2.onl
+104.18.121.239 cdn-msp1.jmcomic1.onl
+104.18.121.239 cdn-msp1.jmcomic2.onl
+104.18.121.239 cdn-msp2.jmcomic1.onl
+104.18.121.239 cdn-msp2.jmcomic2.onl
 
-104.16.37.75 cdn-msp.jmcomic1.cc
-104.16.37.75 cdn-msp.jmcomic2.cc
-104.16.37.75 cdn-msp1.jmcomic1.cc
-104.16.37.75 cdn-msp1.jmcomic2.cc
-104.16.37.75 cdn-msp2.jmcomic1.cc
-104.16.37.75 cdn-msp2.jmcomic2.cc
+104.18.121.239 cdn-msp.jmcomic1.cc
+104.18.121.239 cdn-msp.jmcomic2.cc
+104.18.121.239 cdn-msp1.jmcomic1.cc
+104.18.121.239 cdn-msp1.jmcomic2.cc
+104.18.121.239 cdn-msp2.jmcomic1.cc
+104.18.121.239 cdn-msp2.jmcomic2.cc
 
-104.16.37.75 cdn-msp.jmcomic1.group
-104.16.37.75 cdn-msp.jmcomic2.group
-104.16.37.75 cdn-msp1.jmcomic1.group
-104.16.37.75 cdn-msp1.jmcomic2.group
-104.16.37.75 cdn-msp2.jmcomic1.group
-104.16.37.75 cdn-msp2.jmcomic2.group
+104.18.121.239 cdn-msp.jmcomic1.group
+104.18.121.239 cdn-msp.jmcomic2.group
+104.18.121.239 cdn-msp1.jmcomic1.group
+104.18.121.239 cdn-msp1.jmcomic2.group
+104.18.121.239 cdn-msp2.jmcomic1.group
+104.18.121.239 cdn-msp2.jmcomic2.group
 
-104.16.37.75 jm-comic2.cc
-104.16.37.75 18comic.vip
-104.16.37.75 18comic.org
-104.16.37.75 jm-comic.org
-104.16.37.75 jmcomic2.group
-104.16.37.75 jmcomic.bet
-104.16.37.75 jmcomic.city
-104.16.37.75 jmcomic.me
-104.16.37.75 jmcomic1.me
-104.16.37.75 jmcomic.asia
-104.16.37.75 www.jmapibranch1.cc
-104.16.37.75 www.jmapibranch2.cc
-104.16.37.75 www.jmapibranch3.cc
+104.18.121.239 jm-comic2.cc
+104.18.121.239 18comic.vip
+104.18.121.239 18comic.org
+104.18.121.239 jm-comic.org
+104.18.121.239 jmcomic2.group
+104.18.121.239 jmcomic.bet
+104.18.121.239 jmcomic.city
+104.18.121.239 jmcomic.me
+104.18.121.239 jmcomic1.me
+104.18.121.239 jmcomic.asia
+104.18.121.239 www.jmapibranch1.cc
+104.18.121.239 www.jmapibranch2.cc
+104.18.121.239 www.jmapibranch3.cc
 
 
 
-104.16.37.75 www.asjmapihost.cc
-104.16.37.75 www.jmapinode1.cc
-104.16.37.75 www.jmapinode.cc
-104.16.37.75 cdn-msp.jmapiproxy1.cc
-104.16.37.75 cdn-msp.jmapiproxy2.cc
-104.16.37.75 cdn-msp.jmapiproxy3.cc
+104.18.121.239 www.asjmapihost.cc
+104.18.121.239 www.jmapinode1.cc
+104.18.121.239 www.jmapinode.cc
+104.18.121.239 cdn-msp.jmapiproxy1.cc
+104.18.121.239 cdn-msp.jmapiproxy2.cc
+104.18.121.239 cdn-msp.jmapiproxy3.cc
 
 # Added by Docker Desktop
 10.34.5.197 host.docker.internal
