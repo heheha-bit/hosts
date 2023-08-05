@@ -1,149 +1,171 @@
-�?��?��?��?﻿�? Copyright (c) 1993-2009 Microsoft Corp.
-#
-# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
-#
-# This file contains the mappings of IP addresses to host names. Each
-# entry should be kept on an individual line. The IP address should
-# be placed in the first column followed by the corresponding host name.
-# The IP address and the host name should be separated by at least one
-# space.
-#
-# Additionally, comments (such as these) may be inserted on individual
-# lines or following the machine name denoted by a '#' symbol.
-#
-# For example:
-#
-#      102.54.94.97     rhino.acme.com          # source server
-#       38.25.63.10     x.acme.com              # x client host
-# localhost name resolution is handled within DNS itself.
-#	127.0.0.1       localhost
-#	::1             localhost
-#104.16.37.75 cfcdn
-#66.206.15.50 www.iwara.tv
-104.16.37.75 www.iwara.tv
-104.16.37.75 ecchi.iwara.tv
-104.16.37.75 api.iwara.tv
-104.16.37.75 files.iwara.tv
-66.206.15.50 i.iwara.tv
-104.16.37.75 adm.shinobi.jp
-104.16.37.75 sukone.iwara.tv
-#163.172.42.175 sukone.iwara.tv
-104.16.37.75 uni.iwara.tv
-#163.172.80.31 uni.iwara.tv
-104.16.37.75 miki.iwara.tv
-#163.172.44.153 miki.iwara.tv
-104.16.37.75 ruko.iwara.tv
-#163.172.61.193 ruko.iwara.tv
-104.16.37.75 mikoto.iwara.tv
-#72.52.83.99 mikoto.iwara.tv
-104.16.37.75 yukari.iwara.tv
-#163.172.56.87 yukari.iwara.tv
-104.16.37.75 cul.iwara.tv
-#163.172.39.227 cul.iwara.tv
-104.16.37.75 merli.iwara.tv
-#163.172.61.159 merli.iwara.tv
-104.16.37.75 aku.iwara.tv
-#163.172.40.145 aku.iwara.tv
-104.16.37.75 xin.iwara.tv
-#163.172.81.17 xin.iwara.tv
-104.16.37.75 uta.iwara.tv
-#163.172.40.123 uta.iwara.tv
-104.16.37.75 hime.iwara.tv
-#72.52.83.100 hime.iwara.tv
-104.16.37.75 momo.iwara.tv
-#163.172.62.89 momo.iwara.tv
-104.16.37.75 piko.iwara.tv
-#163.172.57.37 piko.iwara.tv
-104.16.37.75 tei.iwara.tv
-#127.0.0.1 transact.netsarang.com
-#127.0.0.1 update.netsarang.com
-#127.0.0.1 www.netsarang.com
-#127.0.0.1 www.netsarang.co.kr
-#127.0.0.1 sales.netsarang.com
-#0.0.0.0 www.xmind.net
-#127.0.0.1 ubuntu.server.com
-#127.0.0.1 kubernetes.docker.internal
-#127.0.0.1 kubernetes.docker.internal
-#127.0.0.1 kubernetes.docker.internal
-#127.0.0.1 kubernetes.docker.internal
-# GitHub520 Host Start
+
+140.82.112.6 api.github.com
+185.199.108.133 avatars3.githubusercontent.com
+185.199.108.133 avatars2.githubusercontent.com
+185.199.108.133 camo.githubusercontent.com
+185.199.108.133 cloud.githubusercontent.com
+185.199.110.153 github.io
 185.199.108.133 raw.githubusercontent.com
-140.82.114.25                 alive.github.com
-185.199.110.153               assets-cdn.github.com
-185.199.108.133               avatars4.githubusercontent.com
-185.199.108.133               avatars5.githubusercontent.com
-140.82.113.21                 central.github.com
-140.82.113.10                 codeload.github.com
-140.82.113.22                 collector.github.com
-185.199.108.133               desktop.githubusercontent.com
-185.199.108.133               favicons.githubusercontent.com
-52.217.65.188                 github-cloud.s3.amazonaws.com
-52.217.230.97                 github-com.s3.amazonaws.com
-52.217.67.92                  github-production-release-asset-2e65be.s3.amazonaws.com
-54.231.162.177                github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.170.177                github-production-user-asset-6210df.s3.amazonaws.com
-192.0.66.2                    github.blog
-140.82.112.18                 github.community
-185.199.108.154               github.githubassets.com
-151.101.129.194               github.global.ssl.fastly.net
-185.199.108.133               github.map.fastly.net
-185.199.110.153               githubstatus.com
-140.82.114.26                 live.github.com
-185.199.108.133               media.githubusercontent.com
-185.199.108.133               objects.githubusercontent.com
-13.107.43.16                  pipelines.actions.githubusercontent.com
-13.107.246.51                 vscode.dev
+185.199.108.133 user-images.githubusercontent.com
+185.199.108.133 avatars1.githubusercontent.com
+185.199.108.133 avatars0.githubusercontent.com
+185.199.111.133 avatars.githubusercontent.com
+140.82.114.4 gist.github.com
 # Update time: 2022-11-24T13:51:50+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
-104.18.121.239 cdn-msp.jmcomic1.onl
-104.18.121.239 cdn-msp.jmcomic2.onl
-104.18.121.239 cdn-msp1.jmcomic1.onl
-104.18.121.239 cdn-msp1.jmcomic2.onl
-104.18.121.239 cdn-msp2.jmcomic1.onl
-104.18.121.239 cdn-msp2.jmcomic2.onl
-
-104.18.121.239 cdn-msp.jmcomic1.cc
-104.18.121.239 cdn-msp.jmcomic2.cc
-104.18.121.239 cdn-msp1.jmcomic1.cc
-104.18.121.239 cdn-msp1.jmcomic2.cc
-104.18.121.239 cdn-msp2.jmcomic1.cc
-104.18.121.239 cdn-msp2.jmcomic2.cc
-
-104.18.121.239 cdn-msp.jmcomic1.group
-104.18.121.239 cdn-msp.jmcomic2.group
-104.18.121.239 cdn-msp1.jmcomic1.group
-104.18.121.239 cdn-msp1.jmcomic2.group
-104.18.121.239 cdn-msp2.jmcomic1.group
-104.18.121.239 cdn-msp2.jmcomic2.group
-
-104.18.121.239 jm-comic2.cc
-104.18.121.239 18comic.vip
-104.18.121.239 18comic.org
-104.18.121.239 jm-comic.org
-104.18.121.239 jmcomic2.group
-104.18.121.239 jmcomic.bet
-104.18.121.239 jmcomic.city
-104.18.121.239 jmcomic.me
-104.18.121.239 jmcomic1.me
-104.18.121.239 jmcomic.asia
-104.18.121.239 www.jmapibranch1.cc
-104.18.121.239 www.jmapibranch2.cc
-104.18.121.239 www.jmapibranch3.cc
-
-
-
-104.18.121.239 www.asjmapihost.cc
-104.18.121.239 www.jmapinode1.cc
-104.18.121.239 www.jmapinode.cc
-104.18.121.239 cdn-msp.jmapiproxy1.cc
-104.18.121.239 cdn-msp.jmapiproxy2.cc
-104.18.121.239 cdn-msp.jmapiproxy3.cc
-
+#104.19.154.83 challenges.cloudflare.com
+104.19.154.83 www.heheha.shop
+104.19.154.83 jmcomic.bet
+104.19.154.83 jmcomic1.bet
+104.19.154.83 jmcomic1.group
+104.19.154.83 cdn-msp2.jmcomic1.group
+104.19.154.83 cdn-msp.jmcomic1.group
+104.19.154.83 cdn-msp.jm-comic.cc
+104.19.154.83 ping.pe
+104.19.154.83 ecchi.iwara.tv
+104.19.154.83 iwara.tv
+104.19.154.83 www.iwara.tv
+51.15.61.17 staging.iwara.tv
+51.15.61.17 api.staging.iwara.tv
+104.19.154.83	cftest-61w.pages.dev
+104.19.154.83	a.iwara.tv
+104.19.154.83	i.iwara.tv
+104.19.154.83	api.iwara.tv
+104.19.154.83	hime.iwara.tv
+104.19.154.83	mikoto.iwara.tv
+104.19.154.83	support.iwara.tv
+104.19.154.83	shop.iwara.tv
+104.19.154.83	xin.iwara.tv
+104.19.154.83	momo.iwara.tv
+104.19.154.83	tianyi.iwara.tv
+104.19.154.83	status.iwara.tv
+104.19.154.83	staging.iwara.tv
+104.19.154.83	merli.iwara.tv
+104.19.154.83	service.iwara.tv
+104.19.154.83	yukari.iwara.tv
+104.19.154.83	aku.iwara.tv
+104.19.154.83	tei.iwara.tv
+104.19.154.83	uta.iwara.tv
+104.19.154.83	azuki.iwara.tv
+104.19.154.83	piko.iwara.tv
+104.19.154.83	sukone.iwara.tv
+104.19.154.83	cul.iwara.tv
+104.19.154.83	miki.iwara.tv
+104.19.154.83	prima.iwara.tv
+104.19.154.83	uni.iwara.tv
+104.19.154.83	ruko.iwara.tv
+104.19.154.83	miku.iwara.tv
+104.19.154.83	luo.iwara.tv
+104.19.154.83	kaai.iwara.tv
+104.19.154.83	mayu.iwara.tv
+104.19.154.83	neru.iwara.tv
+104.19.154.83	sonico.iwara.tv
+104.19.154.83	komachi.iwara.tv
+104.19.154.83	minarin.iwara.tv
+104.19.154.83	boushi.iwara.tv
+104.19.154.83	chika.iwara.tv
+104.19.154.83	defosuke.iwara.tv
+104.19.154.83	yuuki.iwara.tv
+104.19.154.83	gakuko.iwara.tv
+104.19.154.83	beni.iwara.tv
+104.19.154.83	luna.iwara.tv
+104.19.154.83	meiko.iwara.tv
+104.19.154.83	kitano.iwara.tv
+104.19.154.83	yuiko.iwara.tv
+104.19.154.83	ring.iwara.tv
+104.19.154.83	rana.iwara.tv
+104.19.154.83	galaco.iwara.tv
+104.19.154.83	bruno.iwara.tv
+104.19.154.83	mew.iwara.tv
+104.19.154.83	ted.iwara.tv
+104.19.154.83	luna.iwara.tv
+104.19.154.83	meiko.iwara.tv
+104.19.154.83	kitano.iwara.tv
+104.19.154.83	yuiko.iwara.tv
+104.19.154.83	ring.iwara.tv
+104.19.154.83	rana.iwara.tv
+104.19.154.83	galaco.iwara.tv
+104.19.154.83	bruno.iwara.tv
+104.19.154.83	mew.iwara.tv
+104.19.154.83	ted.iwara.tv
+104.19.154.83	teto.iwara.tv
+104.19.154.83	kanon.iwara.tv
+104.19.154.83	rion.iwara.tv
+104.19.154.83	sonika.iwara.tv
+104.19.154.83	lola.iwara.tv
+104.19.154.83	ringo.iwara.tv
+104.19.154.83	amane.iwara.tv
+104.19.154.83	clara.iwara.tv
+104.19.154.83	hiyama.iwara.tv
+104.19.154.83	suzune.iwara.tv
+104.19.154.83	teto.iwara.tv
+104.19.154.83	kanon.iwara.tv
+104.19.154.83	rion.iwara.tv
+104.19.154.83	sonika.iwara.tv
+104.19.154.83	lola.iwara.tv
+104.19.154.83	ringo.iwara.tv
+104.19.154.83	amane.iwara.tv
+104.19.154.83	clara.iwara.tv
+104.19.154.83	hiyama.iwara.tv
+104.19.154.83	suzune.iwara.tv
+104.19.154.83	rin.iwara.tv
+104.19.154.83	minato.iwara.tv
+104.19.154.83	akiko.iwara.tv
+104.19.154.83	yuki.iwara.tv
+104.19.154.83	yanhe.iwara.tv
+104.19.154.83	rui.iwara.tv
+104.19.154.83	avanna.iwara.tv
+104.19.154.83	hana.iwara.tv
+104.19.154.83	aoki.iwara.tv
+104.19.154.83	hatsune.iwara.tv
+104.19.154.83	test.iwara.tv
+104.19.154.83	ritsu.iwara.tv
+104.19.154.83	otomachi.iwara.tv
+104.19.154.83	macne.iwara.tv
+104.19.154.83	ling.iwara.tv
+104.19.154.83	kiki.iwara.tv
+104.19.154.83	maika.iwara.tv
+104.19.154.83	arsloid.iwara.tv
+104.19.154.83	megurine.iwara.tv
+104.19.154.83	coco.iwara.tv
+104.19.154.83	test.iwara.tv
+104.19.154.83	ritsu.iwara.tv
+104.19.154.83	otomachi.iwara.tv
+104.19.154.83	macne.iwara.tv
+104.19.154.83	ling.iwara.tv
+104.19.154.83	kiki.iwara.tv
+104.19.154.83	maika.iwara.tv
+104.19.154.83	arsloid.iwara.tv
+104.19.154.83	megurine.iwara.tv
+104.19.154.83	coco.iwara.tv
+104.19.154.83	akane.iwara.tv
+104.19.154.83	sue.iwara.tv
+104.19.154.83	kagene.iwara.tv
+104.19.154.83	lorra.iwara.tv
+104.19.154.83	utatane.iwara.tv
+104.19.154.83	lily.iwara.tv
+104.19.154.83	seeu.iwara.tv
+104.19.154.83	caine.iwara.tv
+104.19.154.83	alys.iwara.tv
+104.19.154.83	lumi.iwara.tv
+104.19.154.83	tone.iwara.tv
+104.19.154.83	yuzuki.iwara.tv
+104.19.154.83	kagamine.iwara.tv
+104.19.154.83	luka.iwara.tv
+104.19.154.83	kamui.iwara.tv
+104.19.154.83	one.iwara.tv
+104.19.154.83	tohoku.iwara.tv
+104.19.154.83	kohaku.iwara.tv
+104.19.154.83	files.staging.iwara.tv
+104.19.154.83	ia.iwara.tv
+#106.225.223.12 download.visualstudio.microsoft.com
+67.227.250.187 hub.virtamate.com
+89.187.187.19 1387905758.rsc.cdn77.org
 # Added by Docker Desktop
-10.34.5.197 host.docker.internal
-10.34.5.197 gateway.docker.internal
+192.168.31.235 host.docker.internal
+192.168.31.235 gateway.docker.internal
 # To allow the same kube context to work on the host and the container:
 127.0.0.1 kubernetes.docker.internal
 # End of section
